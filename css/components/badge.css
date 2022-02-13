@@ -9,3 +9,12 @@
     color: white;
     font-weight: 600;
 }
+.point {
+    background-color: tomato;
+width: 5px;
+height: 5px;
+border-radius: 2.5px;
+position: absolute;
+right: -6px;
+top: -7px;
+}
